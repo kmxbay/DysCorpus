@@ -22,6 +22,7 @@ This study evaluates the performance of four different machine learning models f
 2. **Random Forest Classifier**
 3. **Logistic Regression**
 4. **Decision Trees**
+
 Each model was trained and validated on DysCorpus, with metrics recorded to compare performance across various feature configurations and text representations.
 
 Research Paper Submission
